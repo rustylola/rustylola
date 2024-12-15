@@ -1,5 +1,5 @@
 ## Hi! My Name is John Rusty B. Lola 👋
-  - I am passionate to becoming a Web Developer by developing a web application as my stepping stone to achieve my goal. During my college years, I made different web applications to fulfill my thesis project and for students/client's desired web application system.
+I am passionate to becoming a Web Developer by developing a web application as my stepping stone to achieve my goal. During my college years, I made different web applications to fulfill my thesis project and for students/client's desired web application system.
 
 In my career, I'm become a junior programmer then promoted as programmer in a private company that used PHP Programming Language as their back-end and (Bootstrap,JavaScript,jquery,Css) as their front-end. It also used PHP framework such as Laravel and Codeigniter.
 
